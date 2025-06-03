@@ -20,8 +20,9 @@
 
 ## 📊 GitHub Stats
 
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamdev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamdev&layout=compact&theme=radical)
+![Sudarman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudarman76643&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarman76643&layout=compact&theme=radical)
+
 
 ---
 
