@@ -27,5 +27,5 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/nama-kamu)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=flat-square)](https://instagram.com/nama_kamu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sudarman-a44a13344/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=flat-square)](https://www.instagram.com/da2m_vibes/)
