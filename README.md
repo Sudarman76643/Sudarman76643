@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sudarman
 
-🎓 I'm a Backend & Android Developer  
+🎓 I'm a Frontend,Backend & Android Developer  
 📍 Based in Bogor | Student at Pesantren PeTIK  
 📱 Passionate in Kotlin, Java & PHP  
 
